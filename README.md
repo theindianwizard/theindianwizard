@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theindianwizard
+- 👀 I’m interested in C# and C++ and other langages
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on python
+- 📫 How to reach me guttyindustries@gmail.com
